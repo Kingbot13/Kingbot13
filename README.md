@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kingbot13 (my real name is Dylan King)
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently learning html, css, javascript, and much more!
-- 💞️ I’m looking to collaborate on nothing in particular right now, but I'm always open to exciting new projects!
+- 👀 I’m interested in front end web development
+- 🌱 I’m currently learning web development through The Oden Project's curriculum
 - 📫 How to reach me ... dylan.wesley.king@gmail.com
 
 <!---
