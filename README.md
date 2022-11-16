@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingbot13 (my real name is Dylan King)
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning web development through The Oden Project's curriculum
+- 👀 I’m interested in front end or full stack web development
+- 🌱 I learned full stack web development through The Oden Project's curriculum
 - 📫 How to reach me ... dylan.wesley.king@gmail.com
 
 <!---
